@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="p20WalkingSim">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/p20WalkingSim/p02core(1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/p20WalkingSim/p02core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

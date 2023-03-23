@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="518623e5-7672-4954-af03-7237a3eec954" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompSci300.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P04ExceptionalVendingMachine/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P04ExceptionalVendingMachine/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P04ExceptionalVendingMachine/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P04ExceptionalVendingMachine/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P04ExceptionalVendingMachine/P04ExceptionalVendingMachine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P04ExceptionalVendingMachine/src/ExceptionalVendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P04ExceptionalVendingMachine/src/ExceptionalVendingMachineTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P04ExceptionalVendingMachine/src/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cQuiz01/cQuiz01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cQuiz01/src/CourseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03DragonTreasureAdvanture/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03DragonTreasureAdvanture/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03DragonTreasureAdvanture/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03DragonTreasureAdvanture/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03DragonTreasureAdvanture/map.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03DragonTreasureAdvanture/p03DragonTreasureAdvanture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03DragonTreasureAdvanture/roominfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03DragonTreasureAdvanture/src/Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03DragonTreasureAdvanture/src/DragonTreasureGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03DragonTreasureAdvanture/src/DragonTreasureTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03DragonTreasureAdvanture/src/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03DragonTreasureAdvanture/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03DragonTreasureAdvanture/src/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03DragonTreasureAdvanture/src/RoomType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GOOGLE KICKSTART/2022/RoundG/Curling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GOOGLE KICKSTART/2022/RoundG/Happy Subarrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GOOGLE KICKSTART/2022/RoundG/WalkTober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/1073. Adding Two Negabinary Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/1768. Merge Strings Alternately.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/1790. Check if One String Swap Can Make Strings Equal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/24. Swap Nodes in Pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/904. Fruit Into Baskets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p01VendingMachine/out/production/p01VendingMachine/VendingMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/p01VendingMachine/out/production/p01VendingMachine/VendingMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p01VendingMachine/out/production/p01VendingMachine/VendingMachineTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/p01VendingMachine/out/production/p01VendingMachine/VendingMachineTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p01VendingMachine/src/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/p01VendingMachine/src/VendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p01VendingMachine/src/VendingMachineTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/p01VendingMachine/src/VendingMachineTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p20WalkingSim/out/production/p20WalkingSim/WalkingSim.class" beforeDir="false" afterPath="$PROJECT_DIR$/p20WalkingSim/out/production/p20WalkingSim/WalkingSim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Coursera-Convolutional-Neural-Networks-in-TensorFlow/Cats vs Dogs Dataset/Cats vs Dogs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Coursera-Convolutional-Neural-Networks-in-TensorFlow/Cats vs Dogs Dataset/Cats vs Dogs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NerualNetwork/beans.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NerualNetwork/binary_alpha_digits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NerualNetwork/convlutional.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NerualNetwork/fmnist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NerualNetwork/helloWorld.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NerualNetwork/setCallback.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NerualNetwork/tempCodeRunnerFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NerualNetwork/text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../peg_solitaire_game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../peg_solitaire_game.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FXPeGWEfolaQcwgTHWnsg3zjtT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/OneDrive - Business/Code/CompSci300&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive - Business\Code\CompSci300" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.VendingMachine">
+    <configuration name="DragonTreasureTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DragonTreasureTester" />
+      <module name="CompSci300" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VendingMachine" />
+      <module name="CompSci300" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VendingMachine" />
+        <item itemvalue="Application.DragonTreasureTester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="518623e5-7672-4954-af03-7237a3eec954" name="变更" comment="" />
+      <created>1664635548363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664635548363</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

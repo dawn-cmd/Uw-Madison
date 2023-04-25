@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Your Name">
+    <title>Dijkstra's Shortest Path Algorithm</title>
+</head>
+<body>
+    <h1>Dijkstra's Shortest Path Algorithm</h1>
+    <h2>Overview</h2>
+    <p>
+        Dijkstra's Shortest Path Algorithm is a graph search algorithm that solves the single-source shortest path problem for a graph with non-negative edge weights, producing a shortest path tree.
+    </p>
+
+    <h2>Algorithm Steps</h2>
+    <ol>
+        <li>Create a set of unvisited nodes and a set of visited nodes, initially empty.</li>
+        <li>Assign a tentative distance value to every node: set it to zero for the initial node and to infinity for all other nodes. Set the initial node as the current node.</li>
+        <li>For the current node, calculate the tentative distance to each of its unvisited neighbors.</li>
+        <li>Select the unvisited node with the smallest tentative distance, and set it as the new current node. Mark the current node as visited.</li>
+        <li>Repeat steps 3 and 4 until all nodes have been visited or the target node has been visited.</li>
+        <li>Construct the shortest path by tracing the path from the target node to the initial node in reverse order.</li>
+    </ol>
+
+    <h2>Example</h2>
+    <img src="Dijkstra_Animation.gif" alt="Dijkstra's Algorithm Example">
+
+    <h2>Learn More</h2>
+    <p>
+        For more information on Dijkstra's Shortest Path Algorithm, visit
+        <a href="https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm" target="_blank">Wikipedia's Dijkstra's Algorithm page</a>.
+    </p>
+</body>
+</html>

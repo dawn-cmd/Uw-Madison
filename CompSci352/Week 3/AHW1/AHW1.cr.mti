@@ -1,0 +1,51 @@
+{D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/FA.sv} {1 {vlog -work work -sv -stats=none {D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/FA.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} {D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA4_tb.sv} {1 {vlog -work work -sv -stats=none {D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA4_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module RCA4_tb
+
+Top level modules:
+	RCA4_tb
+
+} {} {}} {D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/FA_tb.sv} {1 {vlog -work work -sv -stats=none {D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/FA_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module FA_tb
+
+Top level modules:
+	FA_tb
+
+} {} {}} {D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/AHW1.sv} {0 {vlog -work work -sv -stats=none {D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/AHW1.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module AHW1
+** Error: D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/AHW1.sv(17): (vlog-2163) Macro `endmodule is undefined.
+
+** Error: (vlog-13069) D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/AHW1.sv(18): near "EOF": syntax error, unexpected end of source code.
+
+
+} {4.0 5.0 6.0 7.0} {}} {D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA16.sv} {1 {vlog -work work -sv -stats=none {D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA16.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module RCA16
+
+Top level modules:
+	RCA16
+
+} {} {}} {D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA16_tb.sv} {1 {vlog -work work -sv -stats=none {D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA16_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module RCA16_tb
+
+Top level modules:
+	RCA16_tb
+
+} {} {}} {D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA4.sv} {1 {vlog -work work -sv -stats=none {D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA4.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module RCA4
+
+Top level modules:
+	RCA4
+
+} {} {}}

@@ -1,0 +1,178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Software/altera/16.0
+vAHW1
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1707183441
+!i10b 1
+!s100 Ij]kLZj6^]e>6;QKcd]:U0
+I_13RG8EO;=J?LM>3K^zVb3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!s105 AHW1_sv_unit
+S1
+Z2 dD:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1
+w1707182389
+8D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/AHW1.sv
+FD:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/AHW1.sv
+L0 1
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+!s108 1707183441.000000
+!s107 D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/AHW1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/AHW1.sv|
+!i113 1
+Z4 o-work work -sv
+n@a@h@w1
+vFA
+R0
+!s110 1707262735
+!i10b 1
+!s100 ^a@V:>72C=z^B<O[8L`5]1
+IQ3A0]SndVmX5QYcRfO]Pd3
+R1
+!s105 FA_sv_unit
+S1
+R2
+w1707249351
+8D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/FA.sv
+FD:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/FA.sv
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1707262735.000000
+!s107 D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/FA.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/FA.sv|
+!i113 1
+R4
+n@f@a
+vFA_tb
+R0
+Z5 !s110 1707262736
+!i10b 1
+!s100 >>k3M@2KdX@j67AM4D9A33
+Ifo7K4R?T=1ZTlTGJac3]P3
+R1
+!s105 FA_tb_sv_unit
+S1
+R2
+w1673529376
+8D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/FA_tb.sv
+FD:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/FA_tb.sv
+L0 1
+R3
+r1
+!s85 0
+31
+Z6 !s108 1707262736.000000
+!s107 D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/FA_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/FA_tb.sv|
+!i113 1
+R4
+n@f@a_tb
+vRCA16
+R0
+R5
+!i10b 1
+!s100 TKE:h;nngk^?6dTRR8o?[0
+I@]NR^RkaVImz^4i3o]>7m3
+R1
+!s105 RCA16_sv_unit
+S1
+R2
+w1707262723
+8D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA16.sv
+FD:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA16.sv
+L0 5
+R3
+r1
+!s85 0
+31
+R6
+!s107 D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA16.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA16.sv|
+!i113 1
+R4
+n@r@c@a16
+vRCA16_tb
+R0
+R5
+!i10b 1
+!s100 UC?0_lYZ1FHQb7Vi^O@QJ3
+IQDfhOfNn<Iig7M3A<B1zi0
+R1
+!s105 RCA16_tb_sv_unit
+S1
+R2
+w1707247266
+8D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA16_tb.sv
+FD:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA16_tb.sv
+L0 1
+R3
+r1
+!s85 0
+31
+R6
+!s107 D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA16_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA16_tb.sv|
+!i113 1
+R4
+n@r@c@a16_tb
+vRCA4
+R0
+R5
+!i10b 1
+!s100 aOdKK3YUW04210iekDW=k0
+Ia=CNQBXBcU^ZPB6hNVcHO3
+R1
+!s105 RCA4_sv_unit
+S1
+R2
+w1707262051
+8D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA4.sv
+FD:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA4.sv
+L0 5
+R3
+r1
+!s85 0
+31
+R6
+!s107 D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA4.sv|
+!i113 1
+R4
+n@r@c@a4
+vRCA4_tb
+R0
+R5
+!i10b 1
+!s100 2T]YV[f6;f6;^DGE8QNMV2
+Iom9f84TDDFdz4GQbW5amz2
+R1
+!s105 RCA4_tb_sv_unit
+S1
+R2
+w1707248991
+8D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA4_tb.sv
+FD:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA4_tb.sv
+L0 1
+R3
+r1
+!s85 0
+31
+R6
+!s107 D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA4_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/OneDrive - UW-Madison/Code/Uw-Madison/CompSci352/Week 3/AHW1/dist/RCA4_tb.sv|
+!i113 1
+R4
+n@r@c@a4_tb
